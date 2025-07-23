@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **building ai agents**
 
-- 🌱 I’m currently learning **openai sdk**
+- 🌱 I’m currently learning **openai sdk** and **penetration testing**
 
 - 👨‍💻 All of my projects are available at [https://pro2-portfolio.vercel.app/](https://pro2-portfolio.vercel.app/)
 
